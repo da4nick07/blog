@@ -24,7 +24,7 @@
             <div class="row">
 
                 <div class="col-12 col-md-8 bg-info" >
-                    Форма поиска
+                    Форма поиска !!!
                 </div>
 
                 <div class="col text-end my-auto reg-min-width bg-info">
